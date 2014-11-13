@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
-  <Identity Name="2f8d85bb-65b9-461e-8e72-704a92433e04" Publisher="CN=Olexandr" Version="1.0.0.0" />
-  <mp:PhoneIdentity PhoneProductId="2f8d85bb-65b9-461e-8e72-704a92433e04" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="39690OlexandrLeuschenko.BestDecision" Publisher="CN=20E2A481-4198-4477-8A20-6B248D4CF709" Version="1.1.0.0" />
+  <mp:PhoneIdentity PhoneProductId="e02a3779-22e0-412d-9b47-db0dc7791ee1" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Best Decision</DisplayName>
     <PublisherDisplayName>Olexandr Leuschenko</PublisherDisplayName>
