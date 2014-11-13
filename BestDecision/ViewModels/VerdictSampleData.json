@@ -1,0 +1,13 @@
+﻿{
+    "Decision": {
+        "Title": "My dark decision"
+    },
+    "BestDecision": "My extra dark variant",
+    "BestDecisionPercentage": "99",
+    "Verdicts": [ 
+        { "Value": "15", "VariantTitle": "My dark variant 1" },
+        { "Value": "24", "VariantTitle": "My dark variant 2" },
+        { "Value": "75", "VariantTitle": "My dark variant 3" },
+        { "Value": "64", "VariantTitle": "My dark variant 4" }
+    ]
+}

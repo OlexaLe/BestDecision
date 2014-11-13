@@ -1,0 +1,26 @@
+﻿<ContentDialog
+    x:Class="BestDecision.Dialogs.NewDecisionDialog"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BestDecision.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    x:Name="NewDecisionContentDialog"
+    Title="NEW DECISION"
+    PrimaryButtonText="create"  
+    SecondaryButtonText="cancel"
+    PrimaryButtonClick="ContentDialog_PrimaryButtonClick"
+    SecondaryButtonClick="ContentDialog_SecondaryButtonClick">
+
+    <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+        <TextBox  x:Name="DecisionTitle" Header="Decision title" IsSpellCheckEnabled="True"/>
+
+        <TextBlock 
+            Style="{StaticResource MessageDialogContentStyle}" 
+            TextWrapping="Wrap"
+            x:Name="DecisionTitleTextBlock"
+            Text="Please enter title for your new decision. After that you will be able to add your criterias and variants." />
+            
+    </StackPanel>
+</ContentDialog>

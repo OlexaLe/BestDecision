@@ -1,0 +1,30 @@
+﻿{
+    "Decision": {
+        "Title": "My dark decision"
+    },
+    "Criterias": [
+        {
+            "Title": "My dark criteria 1"
+        },
+        {
+            "Title": "My dark criteria 2"
+        }
+    ],
+    "Variants": [
+        {
+            "Title": "My dark variant 1"
+        },
+        {
+            "Title": "My dark variant 2"
+        },
+        {
+            "Title": "My dark variant 3"
+        }
+    ],
+    "Ratings": [ 
+        { "Value": "15", "VariantTitle": "My dark variant 1", "CriteriaTitle":  "My dark criteria 1" },
+        { "Value": "24", "VariantTitle": "My dark variant 2", "CriteriaTitle":  "My dark criteria 1" }
+        { "Value": "75", "VariantTitle": "My dark variant 1", "CriteriaTitle":  "My dark criteria 2" },
+        { "Value": "64", "VariantTitle": "My dark variant 2", "CriteriaTitle":  "My dark criteria 2" }
+    ]
+}
